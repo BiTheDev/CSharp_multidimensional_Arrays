@@ -1,0 +1,10 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/multidimensional_Arrays/obj/Debug/netcoreapp2.0/multidimensional_Arrays.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/multidimensional_Arrays/obj/Debug/netcoreapp2.0/multidimensional_Arrays.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/multidimensional_Arrays/obj/Debug/netcoreapp2.0/multidimensional_Arrays.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/multidimensional_Arrays/bin/Debug/netcoreapp2.0/multidimensional_Arrays.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/multidimensional_Arrays/bin/Debug/netcoreapp2.0/multidimensional_Arrays.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/multidimensional_Arrays/bin/Debug/netcoreapp2.0/multidimensional_Arrays.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/multidimensional_Arrays/bin/Debug/netcoreapp2.0/multidimensional_Arrays.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/multidimensional_Arrays/bin/Debug/netcoreapp2.0/multidimensional_Arrays.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/multidimensional_Arrays/obj/Debug/netcoreapp2.0/multidimensional_Arrays.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/multidimensional_Arrays/obj/Debug/netcoreapp2.0/multidimensional_Arrays.pdb
